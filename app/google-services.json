@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397506547916",
+    "project_id": "tugassbesar",
+    "storage_bucket": "tugassbesar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397506547916:android:e24d3d7fc19745e2cbb269",
+        "android_client_info": {
+          "package_name": "com.pemrogramanmobile.tugassbesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397506547916-1j3jn5sl468bba6ab386dgou6pfn6enb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcwIlvu-CqSUV80ipssoLDcrOW20DBKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397506547916-1j3jn5sl468bba6ab386dgou6pfn6enb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
